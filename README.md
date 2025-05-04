@@ -1,8 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hi+there!;I'm+Shaun;Nice+to+meet+you!" alt="Typing SVG" />
+</p>
 I'm Shaun, an IT Student passionate about Software Development.
 ## My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phemelomakgopa&show_icons=true&theme=radical)
+
 
 ## Most Used Languages
 
